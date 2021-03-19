@@ -33,7 +33,7 @@ body {
 }
 
 .main {
-    background-image: url(img/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash\ 1.png);
+    background-image: url(anastasiya-vysotskaya-v5GfetB7Yv0-unsplash\ 1.png);
     width: 1400px;
     background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ body {
 .miniLogo {
     width: 25.34px;
     height: 25px;
-    background-image: url(img/logo_mini.svg);
+    background-image: url(logo_mini.svg);
 }
 
 .brand_name {}
@@ -136,7 +136,7 @@ body {
 }
 
 .aboutImg {
-    background-image: url(img/shche_-team-PFi1uWHh2dQ-unsplash\ 1.png);
+    background-image: url(shche_-team-PFi1uWHh2dQ-unsplash\ 1.png);
     width: 444.54px;
     height: 465px;
     margin-left: 182px;
@@ -236,17 +236,17 @@ body {
     width: 488px;
     height: 451px;
     position: relative;
-    background: url(img/image\ 55.png) rgba(100, 72, 69, 0.8);
+    background: url(image\ 55.png) rgba(100, 72, 69, 0.8);
 }
 
 .portfolioContentItem:nth-child(2) {
     width: 692px;
     height: 451px;
-    background: url(img/Rectangle\ 134.png);
+    background: url(Rectangle\ 134.png);
 }
 
 .portfoliocontentitem:nth-child(3) {
-    background: url(img/Rectangle\ 132.png);
+    background: url(Rectangle\ 132.png);
     width: 692px;
     height: 451px;
 }
@@ -254,7 +254,7 @@ body {
 .portfolioContentItem:nth-child(4) {
     width: 488px;
     height: 451px;
-    background: url(img/image\ 56.png);
+    background: url(image\ 56.png);
 }
 
 .team {
@@ -297,7 +297,7 @@ body {
 }
 
 .teamMatesItem:nth-child(1)>.teamMatesItemPhoto {
-    background: url(img/image\ 61.png);
+    background: url(image\ 61.png);
     background-repeat: no-repeat;
     width: 320px;
     height: 253px;
@@ -315,7 +315,7 @@ body {
 }
 
 .teamMatesItem:nth-child(2)>.teamMatesItemPhoto {
-    background: url(img/image\ 59.png);
+    background: url(image\ 59.png);
     width: 320px;
     height: 253px;
 }
@@ -332,7 +332,7 @@ body {
 }
 
 .teamMatesItem:nth-child(3)>.teamMatesItemPhoto {
-    background: url(img/image\ 58.png);
+    background: url(image\ 58.png);
     width: 320px;
     height: 253px;
 }
@@ -417,7 +417,7 @@ body {
     height: 72px;
     width: 72px;
     border-radius: 50%;
-    background: url(img/Arrow\ 2.svg) #CC8B86;
+    background: url(Arrow\ 2.svg) #CC8B86;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -466,7 +466,6 @@ body {
     font-weight: 400;
     font-size: 40px;
     line-height: 50px;
-    /* identical to box height, or 125% */
     text-transform: uppercase;
     color: #FFFFFF;
 }
@@ -521,7 +520,7 @@ body {
 .map {
     width: 590px;
     height: 624px;
-    background: url(img/image\ 54.png);
+    background: url(image\ 54.png);
 }
 
 .footer {
